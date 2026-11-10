@@ -205,4 +205,4 @@ This repository serves as the official landing page for Europa Universalis III. 
 **Get the most recent version of Europa Universalis III today!**
 
 ---
-**Last updated:** 2026-11-09 20:32:48 UTC
+**Last updated:** 2026-11-10 03:19:24 UTC
